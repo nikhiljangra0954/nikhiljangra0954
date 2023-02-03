@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikhiljangra0954](https://github.com/nikhiljangra0954)
+- 👨‍💻 All of my projects are available at [Nikhil_Kumar](https://nikhiljangra0954.github.io)
 
 - 💬 Ask me about **Node.js**
 
