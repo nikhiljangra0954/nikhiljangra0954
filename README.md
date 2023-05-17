@@ -8,11 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhiljangra0954" alt="nikhiljangra0954" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently pursuing Masai Fullstack Web-development Course (Full-Time).
 
 - 👨‍💻 All of my projects are available at [Nikhil_Kumar](https://nikhiljangra0954.github.io/)
 
 - 💬 Ask me about **Node.js**
+
+- 📘 Analytical and detail-oriented aspiring Full Stack Developer.
+
+- 📄 My Resume : [Nikhil_Kumar_Resume](https://drive.google.com/file/d/1qbgppT81gwl5paORlqVfcnwhdZ6Ygl3x/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
